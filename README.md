@@ -10,8 +10,7 @@
 - [Discordrb::API::Channel](https://www.rubydoc.info/github/meew0/discordrb/Discordrb/API/Channel#create_message-class_method)
 
 ## 結果
-![botメッセージ](https://github.com/majestictree/discordrb_test/assets/35989660/a7454428-e3b9-4c56-b83a-64c180753073)
-
+![botメッセージ](https://github.com/majestictree/discordrb_test/assets/35989660/0a13154f-578a-425c-93d0-b5a8a317cc47)
 
 # 調査結果
 ## 利用技術
